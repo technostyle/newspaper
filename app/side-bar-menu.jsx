@@ -9,7 +9,8 @@ import {
   PersonalInfo,
   Homeless,
   FrenchNews,
-  FrenchSpiderMan
+  FrenchSpiderMan,
+  Galery
 } from "./tabs";
 
 const NavItemLinks = () => (
@@ -35,6 +36,11 @@ const NavItemLinks = () => (
         Мировая хроника
       </Nav.Link>
     </Nav.Item>
+    <Nav.Item>
+      <Nav.Link eventKey={navBarLinksNames.GALERY}>
+        Фотогалерея
+      </Nav.Link>
+    </Nav.Item>
   </Nav>
 );
 
@@ -51,6 +57,9 @@ const TabsInfo = () => (
     </Tab.Pane>
     <Tab.Pane eventKey={navBarLinksNames.FOREIGN_OVERVIEW}>
       <FrenchNews />
+    </Tab.Pane>
+    <Tab.Pane eventKey={navBarLinksNames.GALERY}>
+      <Galery />
     </Tab.Pane>
   </Tab.Content>
 );
