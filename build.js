@@ -120,7 +120,8 @@ __webpack_require__.r(__webpack_exports__);
 var navBarLinksNames = {
   DANILA_PERLOV: "DANILA_PERLOV",
   MURMANSK_NEWS: "MURMANSK_NEWS",
-  FOREIGN_OVERVIEW: "FOREIGN_OVERVIEW"
+  FOREIGN_OVERVIEW: "FOREIGN_OVERVIEW",
+  FRENCH_SPIDER_MAN: "FRENCH_SPIDER_MAN"
 };
 
 /***/ }),
@@ -182,6 +183,8 @@ var NavItemLinks = function NavItemLinks() {
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Nav__WEBPACK_IMPORTED_MODULE_4__["default"].Item, null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Nav__WEBPACK_IMPORTED_MODULE_4__["default"].Item, null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Nav__WEBPACK_IMPORTED_MODULE_4__["default"].Link, {
     eventKey: _constants__WEBPACK_IMPORTED_MODULE_5__["navBarLinksNames"].DANILA_PERLOV
   }, "\u0418\u043D\u0442\u0435\u0440\u0432\u044C\u044E \u0441 \u0414\u0430\u043D\u0438\u043B\u043E\u0439 \u041F\u0435\u0440\u043B\u043E\u0432\u044B\u043C")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Nav__WEBPACK_IMPORTED_MODULE_4__["default"].Item, null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Nav__WEBPACK_IMPORTED_MODULE_4__["default"].Link, {
+    eventKey: _constants__WEBPACK_IMPORTED_MODULE_5__["navBarLinksNames"].FRENCH_SPIDER_MAN
+  }, "\u0424\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0447\u0435\u043B\u043E\u0432\u0435\u043A-\u043F\u0430\u0443\u043A")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Nav__WEBPACK_IMPORTED_MODULE_4__["default"].Item, null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Nav__WEBPACK_IMPORTED_MODULE_4__["default"].Link, {
     eventKey: _constants__WEBPACK_IMPORTED_MODULE_5__["navBarLinksNames"].MURMANSK_NEWS
   }, "\u041C\u0443\u0440\u043C\u0430\u043D\u0441\u043A\u0438\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Nav__WEBPACK_IMPORTED_MODULE_4__["default"].Item, null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Nav__WEBPACK_IMPORTED_MODULE_4__["default"].Link, {
     eventKey: _constants__WEBPACK_IMPORTED_MODULE_5__["navBarLinksNames"].FOREIGN_OVERVIEW
@@ -192,6 +195,8 @@ var TabsInfo = function TabsInfo() {
   return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Tab__WEBPACK_IMPORTED_MODULE_1__["default"].Content, null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Tab__WEBPACK_IMPORTED_MODULE_1__["default"].Pane, {
     eventKey: _constants__WEBPACK_IMPORTED_MODULE_5__["navBarLinksNames"].DANILA_PERLOV
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_tabs__WEBPACK_IMPORTED_MODULE_6__["PersonalInfo"], null)), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Tab__WEBPACK_IMPORTED_MODULE_1__["default"].Pane, {
+    eventKey: _constants__WEBPACK_IMPORTED_MODULE_5__["navBarLinksNames"].FRENCH_SPIDER_MAN
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_tabs__WEBPACK_IMPORTED_MODULE_6__["FrenchSpiderMan"], null)), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Tab__WEBPACK_IMPORTED_MODULE_1__["default"].Pane, {
     eventKey: _constants__WEBPACK_IMPORTED_MODULE_5__["navBarLinksNames"].MURMANSK_NEWS
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_tabs__WEBPACK_IMPORTED_MODULE_6__["Homeless"], null)), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Tab__WEBPACK_IMPORTED_MODULE_1__["default"].Pane, {
     eventKey: _constants__WEBPACK_IMPORTED_MODULE_5__["navBarLinksNames"].FOREIGN_OVERVIEW
@@ -233,6 +238,41 @@ var FrenchNews = function FrenchNews() {
 
 /***/ }),
 
+/***/ "./app/tabs/french-spider-man.jsx":
+/*!****************************************!*\
+  !*** ./app/tabs/french-spider-man.jsx ***!
+  \****************************************/
+/*! exports provided: FrenchSpiderMan */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "FrenchSpiderMan", function() { return FrenchSpiderMan; });
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var react_bootstrap_Container__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-bootstrap/Container */ "./node_modules/react-bootstrap/esm/Container.js");
+/* harmony import */ var react_bootstrap_Row__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react-bootstrap/Row */ "./node_modules/react-bootstrap/esm/Row.js");
+/* harmony import */ var react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! react-bootstrap/Col */ "./node_modules/react-bootstrap/esm/Col.js");
+/* harmony import */ var react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! react-bootstrap/Image */ "./node_modules/react-bootstrap/esm/Image.js");
+
+
+
+
+
+var header = "\n\u0424\u0420\u0410\u041D\u0426\u0423\u0417\u0421\u041A\u0418\u0419 \"\u0427\u0415\u041B\u041E\u0412\u0415\u041A-\u041F\u0410\u0423\u041A\" \u0412\u041D\u041E\u0412\u042C \u0417\u0410\u041B\u0415\u0417 \u041D\u0410 \u041D\u0415\u0411\u041E\u0421\u041A\u0420\u0415\u0411 \u0412 \u041F\u0410\u0420\u0418\u0416\u0415\n";
+var text = "\n\u0417\u043D\u0430\u043C\u0435\u043D\u0438\u0442\u044B\u0439 \u043F\u043E\u043A\u043E\u0440\u0438\u0442\u0435\u043B\u044C \u043D\u0435\u0431\u043E\u0441\u043A\u0440\u0435\u0431\u043E\u0432 \u2013 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0441\u043A\u0430\u043B\u043E\u043B\u0430\u0437 \u0410\u043B\u0435\u043D \u0420\u043E\u0431\u0435\u0440 (Alain Robert), \u0431\u043E\u043B\u0435\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0439 \u043A\u0430\u043A \"\u0447\u0435\u043B\u043E\u0432\u0435\u043A-\u043F\u0430\u0443\u043A\", \u2014 \u0432\u0437\u043E\u0431\u0440\u0430\u043B\u0441\u044F \u043D\u0430 \u043D\u0435\u0431\u043E\u0441\u043A\u0440\u0435\u0431 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0438 Total \u0432 \u0434\u0435\u043B\u043E\u0432\u043E\u043C \u0440\u0430\u0439\u043E\u043D\u0435 \u0414\u0435\u0444\u0430\u043D\u0441 \u043D\u0430 \u0441\u0435\u0432\u0435\u0440\u043E-\u0437\u0430\u043F\u0430\u0434\u0435 \u041F\u0430\u0440\u0438\u0436\u0430, \u0441\u043E\u043E\u0431\u0449\u0430\u0435\u0442 \u0433\u0430\u0437\u0435\u0442\u0430 Est Republicain.\n\n\u041F\u043E \u0434\u0430\u043D\u043D\u044B\u043C \u0438\u0437\u0434\u0430\u043D\u0438\u044F, 53-\u043B\u0435\u0442\u043D\u0438\u0439 \u0432\u0435\u0440\u0445\u043E\u043B\u0430\u0437 \u0431\u0435\u0437 \u043A\u0430\u043A\u043E\u0439-\u043B\u0438\u0431\u043E \u0441\u0442\u0440\u0430\u0445\u043E\u0432\u043A\u0438 \u0437\u0430\u0431\u0440\u0430\u043B\u0441\u044F \u043D\u0430 \u0431\u0430\u0448\u043D\u044E \u0432\u044B\u0441\u043E\u0442\u043E\u0439 187 \u043C\u0435\u0442\u0440\u043E\u0432 \u043C\u0435\u043D\u0435\u0435 \u0447\u0435\u043C \u0437\u0430 45 \u043C\u0438\u043D\u0443\u0442, \u043D\u0435\u0441\u043C\u043E\u0442\u0440\u044F \u043D\u0430 \u043B\u0435\u0434\u044F\u043D\u043E\u0439 \u0432\u0435\u0442\u0435\u0440.\n\u0417\u0430 \u0432\u043E\u0441\u0445\u043E\u0436\u0434\u0435\u043D\u0438\u0435\u043C \u0420\u043E\u0431\u0435\u0440\u0430 \u043D\u0430\u0431\u043B\u044E\u0434\u0430\u043B\u0438 \u0441\u043E\u0442\u0440\u0443\u0434\u043D\u0438\u043A\u0438 \u0441\u043B\u0443\u0436\u0431 \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u0438, \u0430 \u0442\u0430\u043A\u0436\u0435 \u0440\u0430\u0431\u043E\u0442\u043D\u0438\u043A\u0438 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0438 \u0438 \u043F\u0440\u043E\u0445\u043E\u0436\u0438\u0435, \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u0432\u0441\u0442\u0440\u0435\u0442\u0438\u043B\u0438 \u0441\u043A\u0430\u043B\u043E\u043B\u0430\u0437\u0430 \u0430\u043F\u043B\u043E\u0434\u0438\u0441\u043C\u0435\u043D\u0442\u0430\u043C\u0438.\n";
+var FrenchSpiderMan = function FrenchSpiderMan() {
+  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Container__WEBPACK_IMPORTED_MODULE_1__["default"], null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", null, header), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Row__WEBPACK_IMPORTED_MODULE_2__["default"], null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    xs: 6,
+    md: 4
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__["default"], {
+    src: "https://4sport.ua/_upl/2/1459/1394436175_c.jpg",
+    rounded: true
+  }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, text));
+};
+
+/***/ }),
+
 /***/ "./app/tabs/homeless.jsx":
 /*!*******************************!*\
   !*** ./app/tabs/homeless.jsx ***!
@@ -260,7 +300,7 @@ var Homeless = function Homeless() {
 /*!***************************!*\
   !*** ./app/tabs/index.js ***!
   \***************************/
-/*! exports provided: PersonalInfo, Homeless, FrenchNews */
+/*! exports provided: PersonalInfo, Homeless, FrenchNews, FrenchSpiderMan */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -273,6 +313,10 @@ __webpack_require__.r(__webpack_exports__);
 
 /* harmony import */ var _french_news__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./french-news */ "./app/tabs/french-news.jsx");
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "FrenchNews", function() { return _french_news__WEBPACK_IMPORTED_MODULE_2__["FrenchNews"]; });
+
+/* harmony import */ var _french_spider_man__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./french-spider-man */ "./app/tabs/french-spider-man.jsx");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "FrenchSpiderMan", function() { return _french_spider_man__WEBPACK_IMPORTED_MODULE_3__["FrenchSpiderMan"]; });
+
 
 
 
@@ -2689,6 +2733,57 @@ var Fade = react__WEBPACK_IMPORTED_MODULE_4___default.a.forwardRef(function (_re
 Fade.defaultProps = defaultProps;
 Fade.displayName = 'Fade';
 /* harmony default export */ __webpack_exports__["default"] = (Fade);
+
+/***/ }),
+
+/***/ "./node_modules/react-bootstrap/esm/Image.js":
+/*!***************************************************!*\
+  !*** ./node_modules/react-bootstrap/esm/Image.js ***!
+  \***************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/esm/extends */ "./node_modules/@babel/runtime/helpers/esm/extends.js");
+/* harmony import */ var _babel_runtime_helpers_esm_objectWithoutPropertiesLoose__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @babel/runtime/helpers/esm/objectWithoutPropertiesLoose */ "./node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js");
+/* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! classnames */ "./node_modules/classnames/index.js");
+/* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(classnames__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _ThemeProvider__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./ThemeProvider */ "./node_modules/react-bootstrap/esm/ThemeProvider.js");
+
+
+
+
+
+var defaultProps = {
+  fluid: false,
+  rounded: false,
+  roundedCircle: false,
+  thumbnail: false
+};
+var Image = react__WEBPACK_IMPORTED_MODULE_3___default.a.forwardRef(function (_ref, ref) {
+  var bsPrefix = _ref.bsPrefix,
+      className = _ref.className,
+      fluid = _ref.fluid,
+      rounded = _ref.rounded,
+      roundedCircle = _ref.roundedCircle,
+      thumbnail = _ref.thumbnail,
+      props = Object(_babel_runtime_helpers_esm_objectWithoutPropertiesLoose__WEBPACK_IMPORTED_MODULE_1__["default"])(_ref, ["bsPrefix", "className", "fluid", "rounded", "roundedCircle", "thumbnail"]);
+
+  bsPrefix = Object(_ThemeProvider__WEBPACK_IMPORTED_MODULE_4__["useBootstrapPrefix"])(bsPrefix, 'img');
+  var classes = classnames__WEBPACK_IMPORTED_MODULE_2___default()(fluid && bsPrefix + "-fluid", rounded && "rounded", roundedCircle && "rounded-circle", thumbnail && bsPrefix + "-thumbnail");
+  return react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement("img", Object(_babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({
+    // eslint-disable-line jsx-a11y/alt-text
+    ref: ref
+  }, props, {
+    className: classnames__WEBPACK_IMPORTED_MODULE_2___default()(className, classes)
+  }));
+});
+Image.displayName = 'Image';
+Image.defaultProps = defaultProps;
+/* harmony default export */ __webpack_exports__["default"] = (Image);
 
 /***/ }),
 
