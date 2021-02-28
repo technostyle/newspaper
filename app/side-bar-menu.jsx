@@ -8,7 +8,8 @@ import { navBarLinksNames } from "./constants";
 import {
   PersonalInfo,
   Homeless,
-  FrenchNews
+  FrenchNews,
+  FrenchSpiderMan
 } from "./tabs";
 
 const NavItemLinks = () => (
@@ -17,6 +18,11 @@ const NavItemLinks = () => (
     <Nav.Item>
       <Nav.Link eventKey={navBarLinksNames.DANILA_PERLOV}>
         Интервью с Данилой Перловым
+      </Nav.Link>
+    </Nav.Item>
+    <Nav.Item>
+      <Nav.Link eventKey={navBarLinksNames.FRENCH_SPIDER_MAN}>
+        Французский человек-паук
       </Nav.Link>
     </Nav.Item>
     <Nav.Item>
@@ -36,6 +42,9 @@ const TabsInfo = () => (
   <Tab.Content>
     <Tab.Pane eventKey={navBarLinksNames.DANILA_PERLOV}>
       <PersonalInfo />
+    </Tab.Pane>
+    <Tab.Pane eventKey={navBarLinksNames.FRENCH_SPIDER_MAN}>
+      <FrenchSpiderMan />
     </Tab.Pane>
     <Tab.Pane eventKey={navBarLinksNames.MURMANSK_NEWS}>
       <Homeless />
