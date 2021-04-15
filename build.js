@@ -342,6 +342,12 @@ var Galery = function Galery() {
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__["default"], {
     src: "https://cdn24.img.ria.ru/images/07e4/05/07/1571110736_0:159:3078:1890_600x0_80_0_0_feb26ec57827b654d5c800485f50f97a.jpg",
     fluid: true
+  }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Row__WEBPACK_IMPORTED_MODULE_2__["default"], null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    xs: 6,
+    md: 4
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__["default"], {
+    src: "https://o.aolcdn.com/hss/storage/midas/ee7c12c0b08fc6b3184e412a066cca21/201657091/pulp_fiction_vega_death.jpg",
+    fluid: true
   }))));
 };
 
