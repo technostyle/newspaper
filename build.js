@@ -119,6 +119,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "navBarLinksNames", function() { return navBarLinksNames; });
 var navBarLinksNames = {
   DANILA_PERLOV: "DANILA_PERLOV",
+  DANILA_PERLOV_2: "DANILA_PERLOV_2",
   MURMANSK_NEWS: "MURMANSK_NEWS",
   FOREIGN_OVERVIEW: "FOREIGN_OVERVIEW",
   FRENCH_SPIDER_MAN: "FRENCH_SPIDER_MAN",
@@ -184,6 +185,8 @@ var NavItemLinks = function NavItemLinks() {
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Nav__WEBPACK_IMPORTED_MODULE_4__["default"].Item, null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Nav__WEBPACK_IMPORTED_MODULE_4__["default"].Item, null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Nav__WEBPACK_IMPORTED_MODULE_4__["default"].Link, {
     eventKey: _constants__WEBPACK_IMPORTED_MODULE_5__["navBarLinksNames"].DANILA_PERLOV
   }, "\u0418\u043D\u0442\u0435\u0440\u0432\u044C\u044E \u0441 \u0414\u0430\u043D\u0438\u043B\u043E\u0439 \u041F\u0435\u0440\u043B\u043E\u0432\u044B\u043C")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Nav__WEBPACK_IMPORTED_MODULE_4__["default"].Item, null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Nav__WEBPACK_IMPORTED_MODULE_4__["default"].Link, {
+    eventKey: _constants__WEBPACK_IMPORTED_MODULE_5__["navBarLinksNames"].DANILA_PERLOV_2
+  }, "\u0418\u043D\u0442\u0435\u0440\u0432\u044C\u044E \u0441 \u0414\u0430\u043D\u0438\u043B\u043E\u0439 \u041F\u0435\u0440\u043B\u043E\u0432\u044B\u043C 2")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Nav__WEBPACK_IMPORTED_MODULE_4__["default"].Item, null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Nav__WEBPACK_IMPORTED_MODULE_4__["default"].Link, {
     eventKey: _constants__WEBPACK_IMPORTED_MODULE_5__["navBarLinksNames"].FRENCH_SPIDER_MAN
   }, "\u0424\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0447\u0435\u043B\u043E\u0432\u0435\u043A-\u043F\u0430\u0443\u043A")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Nav__WEBPACK_IMPORTED_MODULE_4__["default"].Item, null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Nav__WEBPACK_IMPORTED_MODULE_4__["default"].Link, {
     eventKey: _constants__WEBPACK_IMPORTED_MODULE_5__["navBarLinksNames"].MURMANSK_NEWS
@@ -198,6 +201,8 @@ var TabsInfo = function TabsInfo() {
   return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Tab__WEBPACK_IMPORTED_MODULE_1__["default"].Content, null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Tab__WEBPACK_IMPORTED_MODULE_1__["default"].Pane, {
     eventKey: _constants__WEBPACK_IMPORTED_MODULE_5__["navBarLinksNames"].DANILA_PERLOV
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_tabs__WEBPACK_IMPORTED_MODULE_6__["PersonalInfo"], null)), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Tab__WEBPACK_IMPORTED_MODULE_1__["default"].Pane, {
+    eventKey: _constants__WEBPACK_IMPORTED_MODULE_5__["navBarLinksNames"].DANILA_PERLOV_2
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_tabs__WEBPACK_IMPORTED_MODULE_6__["Interview2"], null)), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Tab__WEBPACK_IMPORTED_MODULE_1__["default"].Pane, {
     eventKey: _constants__WEBPACK_IMPORTED_MODULE_5__["navBarLinksNames"].FRENCH_SPIDER_MAN
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_tabs__WEBPACK_IMPORTED_MODULE_6__["FrenchSpiderMan"], null)), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Tab__WEBPACK_IMPORTED_MODULE_1__["default"].Pane, {
     eventKey: _constants__WEBPACK_IMPORTED_MODULE_5__["navBarLinksNames"].MURMANSK_NEWS
@@ -319,12 +324,7 @@ var Galery = function Galery() {
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__["default"], {
     src: "https://life.bodo.ua/upload/files/cm-event/9/8993/image/dcs0hzgvoaedm4h-r1r1h1000w1422zc2.jpg",
     fluid: true
-  }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Row__WEBPACK_IMPORTED_MODULE_2__["default"], null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    style: {
-      position: 'absolute',
-      height: '10px'
-    }
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Row__WEBPACK_IMPORTED_MODULE_2__["default"], null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__["default"], {
+  }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Row__WEBPACK_IMPORTED_MODULE_2__["default"], null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__["default"], {
     xs: 6,
     md: 4
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__["default"], {
@@ -374,7 +374,7 @@ var Homeless = function Homeless() {
 /*!***************************!*\
   !*** ./app/tabs/index.js ***!
   \***************************/
-/*! exports provided: PersonalInfo, Homeless, FrenchNews, FrenchSpiderMan, Galery */
+/*! exports provided: PersonalInfo, Interview2, Homeless, FrenchNews, FrenchSpiderMan, Galery */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -382,23 +382,69 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _personal_info__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./personal-info */ "./app/tabs/personal-info.jsx");
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "PersonalInfo", function() { return _personal_info__WEBPACK_IMPORTED_MODULE_0__["PersonalInfo"]; });
 
-/* harmony import */ var _homeless__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./homeless */ "./app/tabs/homeless.jsx");
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "Homeless", function() { return _homeless__WEBPACK_IMPORTED_MODULE_1__["Homeless"]; });
+/* harmony import */ var _interview2__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./interview2 */ "./app/tabs/interview2.jsx");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "Interview2", function() { return _interview2__WEBPACK_IMPORTED_MODULE_1__["Interview2"]; });
 
-/* harmony import */ var _french_news__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./french-news */ "./app/tabs/french-news.jsx");
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "FrenchNews", function() { return _french_news__WEBPACK_IMPORTED_MODULE_2__["FrenchNews"]; });
+/* harmony import */ var _homeless__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./homeless */ "./app/tabs/homeless.jsx");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "Homeless", function() { return _homeless__WEBPACK_IMPORTED_MODULE_2__["Homeless"]; });
 
-/* harmony import */ var _french_spider_man__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./french-spider-man */ "./app/tabs/french-spider-man.jsx");
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "FrenchSpiderMan", function() { return _french_spider_man__WEBPACK_IMPORTED_MODULE_3__["FrenchSpiderMan"]; });
+/* harmony import */ var _french_news__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./french-news */ "./app/tabs/french-news.jsx");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "FrenchNews", function() { return _french_news__WEBPACK_IMPORTED_MODULE_3__["FrenchNews"]; });
 
-/* harmony import */ var _galery__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./galery */ "./app/tabs/galery.jsx");
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "Galery", function() { return _galery__WEBPACK_IMPORTED_MODULE_4__["Galery"]; });
+/* harmony import */ var _french_spider_man__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./french-spider-man */ "./app/tabs/french-spider-man.jsx");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "FrenchSpiderMan", function() { return _french_spider_man__WEBPACK_IMPORTED_MODULE_4__["FrenchSpiderMan"]; });
+
+/* harmony import */ var _galery__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./galery */ "./app/tabs/galery.jsx");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "Galery", function() { return _galery__WEBPACK_IMPORTED_MODULE_5__["Galery"]; });
 
 
 
 
 
 
+
+
+/***/ }),
+
+/***/ "./app/tabs/interview2.jsx":
+/*!*********************************!*\
+  !*** ./app/tabs/interview2.jsx ***!
+  \*********************************/
+/*! exports provided: Interview2 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "Interview2", function() { return Interview2; });
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var react_bootstrap_Container__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-bootstrap/Container */ "./node_modules/react-bootstrap/esm/Container.js");
+/* harmony import */ var _personal_info_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./personal-info.css */ "./app/tabs/personal-info.css");
+/* harmony import */ var _personal_info_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_personal_info_css__WEBPACK_IMPORTED_MODULE_2__);
+
+
+
+var initials = 'И. Б.';
+var interview = [{
+  question: "\n      \u0417\u0434\u0440\u0430\u0432\u0441\u0442\u0432\u0443\u0439\u0442\u0435\n    ",
+  answer: "\u0417\u0434\u0440\u0430\u0432\u0441\u0442\u0432\u0443\u0439\u0442\u0435\n    "
+}];
+var header = ''; // `
+// Интервью из цикла "встречи с молодыми специалистами"
+// `
+
+var subHeader = ''; // `
+// В рамках демографического исследования, мы впервые публикуем интервью с Данилой Перловым, выпускником
+// механико-математического факультета МГУ, ныне работающего в сфере IT разработчиком ПО.
+// `
+
+var Interview2 = function Interview2() {
+  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap_Container__WEBPACK_IMPORTED_MODULE_1__["default"], null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", null, header, " "), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, " ", subHeader), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, interview.map(function (_ref) {
+    var question = _ref.question,
+        answer = _ref.answer;
+    return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("blockquote", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, question)), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, answer));
+  })));
+};
 
 /***/ }),
 
