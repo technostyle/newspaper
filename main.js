@@ -755,10 +755,6 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-
-console.log({
-  Video: video_caucasian_prisoner_mp4__WEBPACK_IMPORTED_MODULE_1__.default
-});
 var header = "\u0412\u0438\u0434\u0435\u043E\u0442\u0435\u043A\u0430";
 var VideoStore = function VideoStore() {
   return react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Container__WEBPACK_IMPORTED_MODULE_2__.default, null, react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h4", null, header), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Row__WEBPACK_IMPORTED_MODULE_3__.default, null, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_4__.default, {
