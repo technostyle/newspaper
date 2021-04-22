@@ -528,6 +528,36 @@ var Galery = function Galery() {
   }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
     src: "https://o.aolcdn.com/hss/storage/midas/ee7c12c0b08fc6b3184e412a066cca21/201657091/pulp_fiction_vega_death.jpg",
     fluid: true
+  })), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    xs: 6,
+    md: 4
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://www.soyuz.ru/public/uploads/files/22/1708271/740x457_201601121834390ce183bb46.jpg",
+    fluid: true
+  })), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    xs: 6,
+    md: 4
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://lh3.googleusercontent.com/proxy/6d3CL52iwOlBoJImH3rYSIJSxMC0NxpK-uY7DvG1iZq93T-ui6R5umPzzfcXgN41OL092mPfJhA4EpEfQHhBnLRZMp3MqmB5RysYBYiBAdW6Y7NrCU5xbJo",
+    fluid: true
+  }))), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Row__WEBPACK_IMPORTED_MODULE_2__.default, null, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    xs: 6,
+    md: 4
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/06/af/74/06af747c-2e59-5255-a658-d98ef924954b/859717064054_cover.jpg/1200x630bb.jpg",
+    fluid: true
+  })), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    xs: 6,
+    md: 4
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://pbs.twimg.com/media/ESOeHSLWoAEzpQ6.jpg",
+    fluid: true
+  })), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    xs: 6,
+    md: 4
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://pbs.twimg.com/media/ESOeHAaXkAEjipk.jpg",
+    fluid: true
   }))));
 };
 
