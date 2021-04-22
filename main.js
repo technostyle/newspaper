@@ -544,7 +544,7 @@ var Galery = function Galery() {
     xs: 6,
     md: 4
   }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
-    src: "https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/06/af/74/06af747c-2e59-5255-a658-d98ef924954b/859717064054_cover.jpg/1200x630bb.jpg",
+    src: "https://sharing.vedomosti.ru/1466371015/vedomosti.ru/lifestyle/articles/2016/06/20/645920-fedor-chistyakov-predstavil-moskve-albom-bez-durakov.jpg",
     fluid: true
   })), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
     xs: 6,
