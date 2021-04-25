@@ -564,6 +564,24 @@ var Galery = function Galery() {
   }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
     src: "https://images-na.ssl-images-amazon.com/images/I/41yafGMO+rL._SX376_BO1,204,203,200_.jpg",
     fluid: true
+  }))), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Row__WEBPACK_IMPORTED_MODULE_2__.default, null, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    xs: 6,
+    md: 4
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://o.aolcdn.com/hss/storage/midas/ee7c12c0b08fc6b3184e412a066cca21/201657091/pulp_fiction_vega_death.jpg",
+    fluid: true
+  })), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    xs: 6,
+    md: 4
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://o.aolcdn.com/hss/storage/midas/ee7c12c0b08fc6b3184e412a066cca21/201657091/pulp_fiction_vega_death.jpg",
+    fluid: true
+  })), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    xs: 6,
+    md: 4
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://o.aolcdn.com/hss/storage/midas/ee7c12c0b08fc6b3184e412a066cca21/201657091/pulp_fiction_vega_death.jpg",
+    fluid: true
   }))));
 };
 
