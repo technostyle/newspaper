@@ -490,42 +490,6 @@ var Galery = function Galery() {
     xs: 6,
     md: 4
   }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
-    src: "https://4sport.ua/_upl/2/1459/1394436175_c.jpg",
-    fluid: true
-  })), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
-    xs: 6,
-    md: 4
-  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
-    src: "https://pro-extrim.com/wp-content/uploads/2013/11/Alain-Robert.jpg",
-    fluid: true
-  })), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
-    xs: 6,
-    md: 4
-  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
-    src: "https://life.bodo.ua/upload/files/cm-event/9/8993/image/dcs0hzgvoaedm4h-r1r1h1000w1422zc2.jpg",
-    fluid: true
-  }))), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Row__WEBPACK_IMPORTED_MODULE_2__.default, null, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
-    xs: 6,
-    md: 4
-  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
-    src: "https://womengohigh.ru/engine/wp-content/uploads/2019/08/IMG_1703.jpg",
-    fluid: true
-  })), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
-    xs: 6,
-    md: 4
-  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
-    src: "https://lh3.googleusercontent.com/proxy/PBj0wuKV9CXVrojq9lAVKRd9UnyXMkdJTxq2_1C9w_gHqgW-kbrFR1ey0BmTzn1eAeEvLxDyQm4xbsDW3DVZPOXcIVG2s3WtTzJN4dU",
-    fluid: true
-  })), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
-    xs: 6,
-    md: 4
-  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
-    src: "https://cdn24.img.ria.ru/images/07e4/05/07/1571110736_0:159:3078:1890_600x0_80_0_0_feb26ec57827b654d5c800485f50f97a.jpg",
-    fluid: true
-  }))), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Row__WEBPACK_IMPORTED_MODULE_2__.default, null, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
-    xs: 6,
-    md: 4
-  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
     src: "https://o.aolcdn.com/hss/storage/midas/ee7c12c0b08fc6b3184e412a066cca21/201657091/pulp_fiction_vega_death.jpg",
     fluid: true
   })), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
