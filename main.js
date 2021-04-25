@@ -576,6 +576,174 @@ var Galery = function Galery() {
   }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
     src: "https://o.aolcdn.com/hss/storage/midas/ee7c12c0b08fc6b3184e412a066cca21/201657091/pulp_fiction_vega_death.jpg",
     fluid: true
+  }))), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Row__WEBPACK_IMPORTED_MODULE_2__.default, null, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    md: 3
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://www.tadviser.ru/images/6/68/Logo_LANIT.png",
+    fluid: true
+  })), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    md: 3
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://lh3.googleusercontent.com/proxy/J9R3RdeiQHUxCz-Zdgk3aJN2Vc_VCQBvKsfC8C7MrTP_3byS1HWLMWeQ9HmlNRFM1AmOuO-pxHtJpObVcNH3SpwVUakk-tjYyUzgvm3K-2yCRKenfVmayzc-LuBm26ZqhUxYTZChWbHDnQ",
+    fluid: true
+  })), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    md: 3
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://cdn1.ozone.ru/multimedia/1023228489.jpg",
+    fluid: true
+  })), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    md: 3
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://o.aolcdn.com/hss/storage/midas/ee7c12c0b08fc6b3184e412a066cca21/201657091/pulp_fiction_vega_death.jpg",
+    fluid: true
+  }))), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Row__WEBPACK_IMPORTED_MODULE_2__.default, null, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    md: 3
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://www.tadviser.ru/images/6/68/Logo_LANIT.png",
+    fluid: true
+  })), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    md: 3
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://lh3.googleusercontent.com/proxy/J9R3RdeiQHUxCz-Zdgk3aJN2Vc_VCQBvKsfC8C7MrTP_3byS1HWLMWeQ9HmlNRFM1AmOuO-pxHtJpObVcNH3SpwVUakk-tjYyUzgvm3K-2yCRKenfVmayzc-LuBm26ZqhUxYTZChWbHDnQ",
+    fluid: true
+  })), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    md: 3
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://cdn1.ozone.ru/multimedia/1023228489.jpg",
+    fluid: true
+  })), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    md: 3
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://o.aolcdn.com/hss/storage/midas/ee7c12c0b08fc6b3184e412a066cca21/201657091/pulp_fiction_vega_death.jpg",
+    fluid: true
+  }))), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Row__WEBPACK_IMPORTED_MODULE_2__.default, null, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    md: 3
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://www.tadviser.ru/images/6/68/Logo_LANIT.png",
+    fluid: true
+  })), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    md: 3
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://lh3.googleusercontent.com/proxy/J9R3RdeiQHUxCz-Zdgk3aJN2Vc_VCQBvKsfC8C7MrTP_3byS1HWLMWeQ9HmlNRFM1AmOuO-pxHtJpObVcNH3SpwVUakk-tjYyUzgvm3K-2yCRKenfVmayzc-LuBm26ZqhUxYTZChWbHDnQ",
+    fluid: true
+  })), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    md: 3
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://cdn1.ozone.ru/multimedia/1023228489.jpg",
+    fluid: true
+  })), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    md: 3
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://o.aolcdn.com/hss/storage/midas/ee7c12c0b08fc6b3184e412a066cca21/201657091/pulp_fiction_vega_death.jpg",
+    fluid: true
+  }))), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Row__WEBPACK_IMPORTED_MODULE_2__.default, null, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    xs: 6,
+    md: 4
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://o.aolcdn.com/hss/storage/midas/ee7c12c0b08fc6b3184e412a066cca21/201657091/pulp_fiction_vega_death.jpg",
+    fluid: true
+  })), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    xs: 6,
+    md: 4
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://o.aolcdn.com/hss/storage/midas/ee7c12c0b08fc6b3184e412a066cca21/201657091/pulp_fiction_vega_death.jpg",
+    fluid: true
+  })), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    xs: 6,
+    md: 4
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://o.aolcdn.com/hss/storage/midas/ee7c12c0b08fc6b3184e412a066cca21/201657091/pulp_fiction_vega_death.jpg",
+    fluid: true
+  }))), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Row__WEBPACK_IMPORTED_MODULE_2__.default, null, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    xs: 6,
+    md: 4
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://o.aolcdn.com/hss/storage/midas/ee7c12c0b08fc6b3184e412a066cca21/201657091/pulp_fiction_vega_death.jpg",
+    fluid: true
+  })), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    xs: 6,
+    md: 4
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://o.aolcdn.com/hss/storage/midas/ee7c12c0b08fc6b3184e412a066cca21/201657091/pulp_fiction_vega_death.jpg",
+    fluid: true
+  })), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    xs: 6,
+    md: 4
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://o.aolcdn.com/hss/storage/midas/ee7c12c0b08fc6b3184e412a066cca21/201657091/pulp_fiction_vega_death.jpg",
+    fluid: true
+  }))), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Row__WEBPACK_IMPORTED_MODULE_2__.default, null, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    xs: 6,
+    md: 4
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://o.aolcdn.com/hss/storage/midas/ee7c12c0b08fc6b3184e412a066cca21/201657091/pulp_fiction_vega_death.jpg",
+    fluid: true
+  })), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    xs: 6,
+    md: 4
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://o.aolcdn.com/hss/storage/midas/ee7c12c0b08fc6b3184e412a066cca21/201657091/pulp_fiction_vega_death.jpg",
+    fluid: true
+  })), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    xs: 6,
+    md: 4
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://o.aolcdn.com/hss/storage/midas/ee7c12c0b08fc6b3184e412a066cca21/201657091/pulp_fiction_vega_death.jpg",
+    fluid: true
+  }))), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Row__WEBPACK_IMPORTED_MODULE_2__.default, null, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    xs: 6,
+    md: 4
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://o.aolcdn.com/hss/storage/midas/ee7c12c0b08fc6b3184e412a066cca21/201657091/pulp_fiction_vega_death.jpg",
+    fluid: true
+  })), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    xs: 6,
+    md: 4
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://o.aolcdn.com/hss/storage/midas/ee7c12c0b08fc6b3184e412a066cca21/201657091/pulp_fiction_vega_death.jpg",
+    fluid: true
+  })), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    xs: 6,
+    md: 4
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://o.aolcdn.com/hss/storage/midas/ee7c12c0b08fc6b3184e412a066cca21/201657091/pulp_fiction_vega_death.jpg",
+    fluid: true
+  }))), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Row__WEBPACK_IMPORTED_MODULE_2__.default, null, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    xs: 6,
+    md: 4
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://o.aolcdn.com/hss/storage/midas/ee7c12c0b08fc6b3184e412a066cca21/201657091/pulp_fiction_vega_death.jpg",
+    fluid: true
+  })), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    xs: 6,
+    md: 4
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://o.aolcdn.com/hss/storage/midas/ee7c12c0b08fc6b3184e412a066cca21/201657091/pulp_fiction_vega_death.jpg",
+    fluid: true
+  })), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    xs: 6,
+    md: 4
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://o.aolcdn.com/hss/storage/midas/ee7c12c0b08fc6b3184e412a066cca21/201657091/pulp_fiction_vega_death.jpg",
+    fluid: true
+  }))), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Row__WEBPACK_IMPORTED_MODULE_2__.default, null, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    xs: 6,
+    md: 4
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://sharing.vedomosti.ru/1466371015/vedomosti.ru/lifestyle/articles/2016/06/20/645920-fedor-chistyakov-predstavil-moskve-albom-bez-durakov.jpg",
+    fluid: true
+  })), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    xs: 6,
+    md: 4
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://sharing.vedomosti.ru/1466371015/vedomosti.ru/lifestyle/articles/2016/06/20/645920-fedor-chistyakov-predstavil-moskve-albom-bez-durakov.jpg",
+    fluid: true
+  })), react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Col__WEBPACK_IMPORTED_MODULE_3__.default, {
+    xs: 6,
+    md: 4
+  }, react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_4__.default, {
+    src: "https://sharing.vedomosti.ru/1466371015/vedomosti.ru/lifestyle/articles/2016/06/20/645920-fedor-chistyakov-predstavil-moskve-albom-bez-durakov.jpg",
+    fluid: true
   }))));
 };
 
